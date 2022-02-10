@@ -3,5 +3,8 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: notebooks/content/atoti_tutorial.ipynb
+
+parts:
+  - caption: Atoti Tutorial
+    chapters:
+    - file: notebooks/atoti_tutorial.ipynb
